@@ -1,0 +1,4 @@
+interface:
+  display_name: "開発物をテスト・レビュー"
+  short_description: "実装を要件と設計に照合し、テスト結果とレビュー所見を報告する"
+  default_prompt: "-and-review-implementation を使って、開発物をテストしてレビューしてください。"

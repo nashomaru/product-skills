@@ -1,0 +1,4 @@
+interface:
+  display_name: "要件から設計を作成"
+  short_description: "要件を技術設計へ変換し、判断根拠と追跡可能性を残す"
+  default_prompt: "-from-requirements を使って、要件定義から実装可能な設計を作成してください。"

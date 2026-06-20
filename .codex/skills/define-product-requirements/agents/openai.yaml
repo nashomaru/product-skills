@@ -1,0 +1,4 @@
+interface:
+  display_name: "プロダクト要件定義"
+  short_description: "対話で要件を明確化し、検証可能な要件定義書にまとめる"
+  default_prompt: "$define-product-requirements を使って、プロダクトの要件をヒアリングし要件定義書を作成してください。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "開発タスクを実装"
+  short_description: "タスクと設計を読み、既存コードに適合する変更を実装・検証する"
+  default_prompt: "-development-task を使って、指定された開発タスクを実装してください。"
