@@ -1,4 +1,4 @@
 interface:
   display_name: "設計から開発タスクを作成"
   short_description: "設計を依存関係付きの検証可能な開発タスクへ分解する"
-  default_prompt: "-tasks-from-design を使って、設計書から開発タスクを作成してください。"
+  default_prompt: "$create-tasks-from-design を使って、設計書から開発タスクを作成してください。"

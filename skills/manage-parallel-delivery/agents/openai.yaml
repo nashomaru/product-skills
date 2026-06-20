@@ -1,0 +1,4 @@
+interface:
+  display_name: "3レーン並列デリバリーPM"
+  short_description: "3タスクの開発と独立QAを並列管理し、修正・再検証まで進める"
+  default_prompt: "$manage-parallel-delivery を使って、Readyな開発タスクを最大3件選び、開発と独立QAを並列で完了まで進めてください。"
